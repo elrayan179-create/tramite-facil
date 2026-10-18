@@ -138,6 +138,7 @@ function layout({ title, desc, url, main, home = false, ld = [], noindex = false
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(full)}</title>
 <meta name="description" content="${esc(desc)}">
+<meta name="google-site-verification" content="U1ml7dcOrakuNfaITAMAYsb24XP2kmLyUDelhxKImuw" />
 ${noindex ? '<meta name="robots" content="noindex">' : ''}
 <link rel="canonical" href="${BASE}${url}">
 <meta property="og:title" content="${esc(full)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="${home ? 'website' : 'article'}"><meta property="og:locale" content="es_ES"><meta property="og:url" content="${BASE}${url}">
