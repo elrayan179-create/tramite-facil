@@ -1,0 +1,15 @@
+{
+  "name": "tramite-facil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trámite Fácil: portal informativo de trámites administrativos en España",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && node preview.mjs"
+  },
+  "dependencies": {
+    "marked": "18.0.2"
+  },
+  "engines": { "node": ">=20" }
+}

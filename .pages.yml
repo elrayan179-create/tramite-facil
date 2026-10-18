@@ -1,0 +1,102 @@
+# Configuración de Pages CMS (https://pagescms.org)
+media:
+  input: static/img
+  output: /img
+
+content:
+  - name: guias
+    label: Guías
+    type: collection
+    path: content/guias
+    filename: "{fields.slug}.md"
+    view:
+      fields: [title, categoria, fecha_revision]
+      primary: title
+      sort: [fecha_revision]
+      default:
+        sort: fecha_revision
+        order: desc
+    fields:
+      - name: title
+        label: Título
+        type: string
+        required: true
+      - name: slug
+        label: Dirección (sin espacios ni tildes, ej. consultar-vida-laboral)
+        type: string
+        required: true
+        pattern:
+          regex: "^[a-z0-9]+(-[a-z0-9]+)*$"
+          message: Solo minúsculas, números y guiones, sin tildes ni espacios.
+      - name: descripcion
+        label: Descripción SEO (una frase, máximo 160 caracteres)
+        type: string
+        required: true
+      - name: categoria
+        label: Categoría
+        type: select
+        required: true
+        options:
+          values:
+            - { value: identidad-documentacion, label: Identidad y documentación }
+            - { value: certificados-digitales, label: Certificados digitales }
+            - { value: seguridad-social, label: Seguridad Social y vida laboral }
+            - { value: hacienda-impuestos, label: Hacienda e impuestos }
+            - { value: empadronamiento, label: Empadronamiento }
+            - { value: ayudas-prestaciones, label: Ayudas y prestaciones }
+            - { value: empleo, label: Empleo }
+            - { value: tramites-online, label: Trámites online }
+      - name: fecha_publicacion
+        label: Fecha de publicación
+        type: date
+        required: true
+      - name: fecha_revision
+        label: Fecha de última revisión
+        type: date
+        required: true
+      - name: tiempo_lectura
+        label: Minutos de lectura (opcional; si lo dejas vacío se calcula solo)
+        type: number
+      - name: imagen
+        label: Imagen destacada (opcional; si no hay, se usa una ilustración de la categoría)
+        type: image
+      - name: imagen_alt
+        label: Texto alternativo de la imagen
+        type: string
+      - name: palabras_clave
+        label: Palabras clave
+        type: string
+        list: true
+      - name: destacada
+        label: Mostrar en "Guías destacadas"
+        type: boolean
+      - name: borrador
+        label: Borrador (si está activado, no se publica)
+        type: boolean
+      - name: body
+        label: Contenido
+        type: rich-text
+
+  - name: paginas
+    label: Páginas (legales e informativas)
+    type: collection
+    path: content/paginas
+    filename: "{fields.slug}.md"
+    view:
+      fields: [title]
+      primary: title
+    fields:
+      - name: title
+        label: Título
+        type: string
+        required: true
+      - name: slug
+        label: Dirección (no la cambies en las páginas existentes)
+        type: string
+        required: true
+      - name: descripcion
+        label: Descripción
+        type: string
+      - name: body
+        label: Contenido
+        type: rich-text
