@@ -1,0 +1,15 @@
+{
+  "nombre": "Trámite Fácil",
+  "eslogan": "Tus trámites, explicados sin complicaciones",
+  "url": "",
+  "categorias": [
+    { "slug": "identidad-documentacion", "nombre": "Identidad y documentación", "icono": "identidad", "descripcion": "DNI, pasaporte y otros documentos de identidad." },
+    { "slug": "certificados-digitales", "nombre": "Certificados digitales", "icono": "certificado", "descripcion": "Certificado digital, DNI electrónico y sistemas de identificación." },
+    { "slug": "seguridad-social", "nombre": "Seguridad Social y vida laboral", "icono": "personas", "descripcion": "Vida laboral, número de afiliación y gestiones con la Seguridad Social." },
+    { "slug": "hacienda-impuestos", "nombre": "Hacienda e impuestos", "icono": "hacienda", "descripcion": "Gestiones con la Agencia Tributaria y obligaciones fiscales." },
+    { "slug": "empadronamiento", "nombre": "Empadronamiento", "icono": "casa", "descripcion": "Alta, cambio y certificados de empadronamiento." },
+    { "slug": "ayudas-prestaciones", "nombre": "Ayudas y prestaciones", "icono": "corazon", "descripcion": "Cómo informarte sobre ayudas y prestaciones públicas." },
+    { "slug": "empleo", "nombre": "Empleo", "icono": "maletin", "descripcion": "Gestiones relacionadas con la búsqueda de empleo y el desempleo." },
+    { "slug": "tramites-online", "nombre": "Trámites online", "icono": "pantalla", "descripcion": "Cl@ve, cita previa y otras herramientas para gestionar todo por internet." }
+  ]
+}
