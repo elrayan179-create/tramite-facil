@@ -1,21 +1,20 @@
 ---
 title: Cómo consultar tu vida laboral
 slug: consultar-vida-laboral
-descripcion: Qué es el informe de vida laboral y qué opciones hay para pedirlo a la Seguridad Social por internet.
+descripcion: Qué es el informe de vida laboral y qué opciones hay para pedirlo a
+  la Seguridad Social por internet.
 categoria: seguridad-social
 fecha_publicacion: 2026-10-18
 fecha_revision: 2026-10-18
-imagen: ""
-imagen_alt: ""
-destacada: true
 palabras_clave:
   - vida laboral
   - informe vida laboral
   - Seguridad Social
   - cotización
   - sede electrónica
+destacada: true
+borrador: true
 ---
-
 El informe de vida laboral es un documento de la Seguridad Social que recoge tus periodos de alta como trabajador. Se pide con frecuencia para comprobar la trayectoria laboral. Esta guía resume las opciones disponibles para solicitarlo y dónde comprobar cada paso.
 
 ## Requisitos previos
@@ -35,7 +34,7 @@ Si no dispones de ninguna de estas opciones, la sede electrónica también permi
 
 ## Pasos
 
-1. Entra en la sede electrónica de la Seguridad Social: <https://sede.seg-social.gob.es>.
+1. Entra en la sede electrónica de la Seguridad Social: [https://sede.seg-social.gob.es](https://sede.seg-social.gob.es).
 2. Busca el apartado **Informe de vida laboral** (puedes usar el buscador de la propia sede).
 3. Elige cómo quieres identificarte: Cl@ve, certificado digital o DNI electrónico, o SMS.
 4. Sigue las instrucciones de la pantalla para obtener tu informe.
