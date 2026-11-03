@@ -7,7 +7,7 @@ categoria: seguridad-social
 fecha_publicacion: 2026-10-31
 fecha_revision: 2026-10-31
 destacada: false
-borrador: false
+borrador: true
 ---
 # Cómo solicitar la Tarjeta Sanitaria Europea paso a paso
 
