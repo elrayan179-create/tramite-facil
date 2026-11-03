@@ -13,7 +13,7 @@ palabras_clave:
   - cotización
   - sede electrónica
 destacada: true
-borrador: true
+borrador: false
 ---
 El informe de vida laboral es un documento de la Seguridad Social que recoge tus periodos de alta como trabajador. Se pide con frecuencia para comprobar la trayectoria laboral. Esta guía resume las opciones disponibles para solicitarlo y dónde comprobar cada paso.
 
