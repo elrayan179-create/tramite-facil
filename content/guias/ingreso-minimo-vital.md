@@ -3,7 +3,7 @@ title: Ingreso mínimo vital
 slug: ingreso-minimo-vital
 descripcion: Guía de los requisitos y las vías de solicitud del Ingreso Mínimo
   Vital que describen las fuentes oficiales de la Seguridad Social.
-categoria: seguridad-social
+categoria: ayudas-prestaciones
 fecha_publicacion: 2026-11-06
 fecha_revision: 2026-11-06
 destacada: true
