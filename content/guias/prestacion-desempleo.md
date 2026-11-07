@@ -8,7 +8,7 @@ categoria: empleo
 fecha_publicacion: 2026-11-06
 fecha_revision: 2026-11-06
 destacada: true
-borrador: true
+borrador: false
 ---
 La prestación contributiva por desempleo, conocida como «el paro», es la ayuda que cobra quien pierde su empleo y ha cotizado lo suficiente. La gestiona el Servicio Público de Empleo Estatal (SEPE).
 
