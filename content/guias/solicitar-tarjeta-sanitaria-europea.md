@@ -7,10 +7,8 @@ categoria: seguridad-social
 fecha_publicacion: 2026-10-31
 fecha_revision: 2026-10-31
 destacada: false
-borrador: true
+borrador: false
 ---
-# Cómo solicitar la Tarjeta Sanitaria Europea paso a paso
-
 La Tarjeta Sanitaria Europea (TSE) es un documento gratuito que permite acceder a la asistencia sanitaria pública necesaria durante una estancia temporal en determinados países europeos.
 
 Es especialmente útil cuando viajas por vacaciones, estudios o motivos personales. En esta guía te explicamos quién puede solicitarla, qué necesitas y cómo realizar el trámite por Internet.
