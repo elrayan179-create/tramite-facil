@@ -7,7 +7,7 @@ categoria: ayudas-prestaciones
 fecha_publicacion: 2026-11-06
 fecha_revision: 2026-11-06
 destacada: true
-borrador: true
+borrador: false
 ---
 El Ingreso Mínimo Vital (IMV) es una prestación no contributiva de la Seguridad Social. Está pensada para garantizar unos ingresos mínimos a personas y familias en situación de vulnerabilidad económica. La cuantía varía según la composición del hogar y sus ingresos.
 
