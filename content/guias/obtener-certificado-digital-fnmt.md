@@ -8,7 +8,7 @@ categoria: certificados-digitales
 fecha_publicacion: 2026-10-31
 fecha_revision: 2026-10-31
 destacada: true
-borrador: true
+borrador: false
 ---
 # Cómo obtener el certificado digital de la FNMT paso a paso
 
