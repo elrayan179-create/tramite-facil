@@ -7,7 +7,7 @@ categoria: hacienda-impuestos
 fecha_publicacion: 2026-11-06
 fecha_revision: 2026-11-06
 destacada: false
-borrador: true
+borrador: false
 ---
 La declaración del IRPF se presenta en una campaña anual de la Agencia Tributaria. Esta guía resume los canales y las fechas de la última campaña, la de la Renta 2025, que se presentó en 2026.
 
