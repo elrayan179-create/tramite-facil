@@ -8,7 +8,7 @@ categoria: ayudas-prestaciones
 fecha_publicacion: 2026-10-31
 fecha_revision: 2026-10-31
 destacada: true
-borrador: true
+borrador: false
 ---
 # Beca de 3.000 euros: qué es realmente y cómo pedir las becas MEC 2026-2027
 
