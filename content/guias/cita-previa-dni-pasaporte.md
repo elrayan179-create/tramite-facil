@@ -1,7 +1,7 @@
 ---
 title: Cita previa DNI y Pasaporte
 slug: cita-previa-dni-pasaporte
-descripcion: ": Guía para pedir cita previa en la Policía Nacional para el DNI y
+descripcion: "Guía para pedir cita previa en la Policía Nacional para el DNI y
   el pasaporte: dónde se pide, documentación y precio."
 categoria: identidad-documentacion
 fecha_publicacion: 2026-11-07
