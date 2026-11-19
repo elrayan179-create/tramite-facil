@@ -5,13 +5,11 @@ descripcion: Información sobre el tratamiento de datos personales en Trámite F
 ---
 ## 1. Qué datos trata esta web
 
-Trámite Fácil ofrece información y guías sobre trámites administrativos en España.
+**Trámite Fácil** ofrece información y guías sobre trámites administrativos en España.
 
-En su configuración actual, la web no incluye formularios de contacto, cuentas de usuario ni herramientas propias de analítica.
+En su configuración actual, la web no incluye formularios de contacto, registros de usuarios ni herramientas propias de analítica. El buscador interno funciona directamente en el navegador del usuario y no envía las búsquedas a un servidor propio.
 
-El buscador funciona en el navegador del usuario y no envía las búsquedas a un servidor propio.
-
-El proveedor de alojamiento puede registrar determinados datos técnicos de las visitas, como direcciones IP, de acuerdo con sus propias condiciones y políticas de privacidad.
+No obstante, el proveedor de alojamiento web puede registrar determinados datos técnicos de conexión (como la dirección IP o el navegador utilizado) por motivos de seguridad y funcionamiento. Asimismo, al mostrar publicidad a través de **Google AdSense**, este servicio de terceros puede recopilar datos técnicos, direcciones IP e identificadores de cookies o dispositivos para gestionar y personalizar los anuncios.
 
 ## 2. Responsable del tratamiento
 
@@ -23,21 +21,27 @@ Correo electrónico de contacto: [conta.tramitefacil@outlook.com](mailto:conta.t
 
 ## 3. Finalidad del tratamiento
 
-Los datos técnicos que puedan tratarse se utilizarán para garantizar el funcionamiento, la seguridad y el mantenimiento del sitio web.
+Los datos técnicos recopilados se tratan con las siguientes finalidades:
 
-Trámite Fácil no solicita datos personales para consultar las guías informativas.
+- **Seguridad y mantenimiento:** Garantizar el correcto funcionamiento técnico y la seguridad del sitio web (base legal: interés legítimo del titular).
+- **Publicidad:** Mostrar anuncios relevantes y medir su rendimiento mediante plataformas publicitarias de terceros, siempre previa obtención del consentimiento del usuario a través del panel de configuración de cookies (base legal: consentimiento del usuario).
+
+Trámite Fácil no solicita datos personales identificativos (como nombre o correo electrónico) para consultar sus guías informativas.
 
 ## 4. Derechos de los usuarios
 
-Los usuarios pueden ejercer, cuando corresponda, sus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad de sus datos personales.
+Los usuarios pueden ejercer en cualquier momento sus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad de sus datos personales enviando una solicitud al correo electrónico **[conta.tramitefacil@outlook.com](mailto:conta.tramitefacil@outlook.com)**.
 
-Para ejercer estos derechos, pueden dirigirse al responsable del tratamiento a través del correo electrónico indicado anteriormente.
-
-También pueden presentar una reclamación ante la Agencia Española de Protección de Datos: [https://www.aepd.es/](https://www.aepd.es/)
+Asimismo, si consideran que el tratamiento de sus datos no se ajusta a la normativa vigente, tienen derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD): ++**[https://www.aepd.es/](https://www.aepd.es/)**++
 
 ## 5. Servicios de terceros
 
-El sitio puede incluir enlaces a páginas externas, especialmente de organismos públicos. Cada página externa es responsable de sus propios tratamientos de datos y políticas de privacidad.
+Este sitio web utiliza **Google AdSense**, un servicio de publicidad proporcionado por Google Ireland Limited. Google y sus socios publicitarios utilizan cookies e identificadores para mostrar anuncios basados en las visitas previas del usuario a este sitio web o a otros sitios de Internet.
+
+- Los usuarios pueden inhabilitar la publicidad personalizada accediendo a la ++**[Configuración de anuncios de Google](https://www.google.com/settings/u/0/ads/authenticated)**++.
+- Puede consultar cómo utiliza Google los datos cuando visita sitios web de sus socios en la ++**[Política de privacidad y condiciones de Google](https://policies.google.com/technologies/partner-sites)**++.
+
+Además, el sitio incluye enlaces a páginas externas, principalmente sedes electrónicas y organismos públicos. Cada página externa es responsable de sus propios tratamientos de datos y políticas de privacidad.
 
 ## 6. Actualizaciones
 
