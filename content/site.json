@@ -1,7 +1,7 @@
 {
   "nombre": "Trámite Fácil",
   "eslogan": "Tus trámites, explicados sin complicaciones",
-  "url": "",
+  "url": "https://tramitefacil.me",
   "categorias": [
     { "slug": "identidad-documentacion", "nombre": "Identidad y documentación", "icono": "identidad", "descripcion": "DNI, pasaporte y otros documentos de identidad." },
     { "slug": "certificados-digitales", "nombre": "Certificados digitales", "icono": "certificado", "descripcion": "Certificado digital, DNI electrónico y sistemas de identificación." },
