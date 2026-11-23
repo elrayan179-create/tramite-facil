@@ -7,7 +7,7 @@ const ROOT = process.cwd();
 const OUT = path.join(ROOT, 'dist');
 const read = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8');
 const site = JSON.parse(read('content/site.json'));
-const BASE = (process.env.URL || site.url || '').replace(/\/$/, '');
+const BASE = (site.url || process.env.URL || '').replace(/\/$/, '');
 const fail = (msg) => { console.error('\nERROR: ' + msg + '\n'); process.exit(1); };
 
 /* ---------- utilidades ---------- */
