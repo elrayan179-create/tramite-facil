@@ -182,6 +182,11 @@ const crumbLd = (items) => ({ '@context': 'https://schema.org', '@type': 'Breadc
 /* ---------- escritura ---------- */
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.cpSync(path.join(ROOT, 'static'), OUT, { recursive: true });
+// Redirección permanente del dominio antiguo al nuevo
+fs.writeFileSync(
+  path.join(OUT, '_redirects'),
+  'https://tramite-facil.netlify.app/* https://tramitefacil.me/:splat 301!\n'
+);
 fs.rmSync(path.join(OUT, 'img', '.gitkeep'), { force: true });
 const urls = [];
 function write(url, html, index = true) {
