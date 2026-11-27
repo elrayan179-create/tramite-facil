@@ -140,6 +140,8 @@ function layout({ title, desc, url, main, home = false, ld = [], noindex = false
 <meta name="description" content="${esc(desc)}">
 <meta name="google-site-verification" content="U1ml7dcOrakuNfaITAMAYsb24XP2kmLyUDelhxKImuw" />
 ${noindex ? '<meta name="robots" content="noindex">' : ''}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6520468918798244"
+     crossorigin="anonymous"></script>
 <link rel="canonical" href="${BASE}${url}">
 <meta property="og:title" content="${esc(full)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:type" content="${home ? 'website' : 'article'}"><meta property="og:locale" content="es_ES"><meta property="og:url" content="${BASE}${url}">
 <meta name="theme-color" content="#0b2a4a">
