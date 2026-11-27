@@ -3,39 +3,65 @@ title: Política de cookies
 slug: cookies
 descripcion: Información sobre el uso de cookies en Trámite Fácil.
 ---
-**1. ¿Qué son las cookies?**
+# Política de cookies
 
-Una cookie es un pequeño archivo de texto que un sitio web descarga en tu navegador (ordenador, móvil o tableta) cuando accedes a determinadas páginas. Las cookies permiten, entre otras cosas, garantizar el funcionamiento técnico de la web, recordar tus preferencias de privacidad y gestionar los espacios publicitarios.
+## 1. ¿Qué son las cookies?
 
-**2. Tipos de cookies utilizadas en este sitio web**
+Las cookies son pequeños archivos de texto que algunos sitios web pueden almacenar en el navegador del usuario cuando visita una página desde un ordenador, teléfono móvil o tableta.
 
-En su configuración actual, Trámite Fácil utiliza únicamente cookies técnicas necesarias y cookies publicitarias de terceros (Google AdSense):
+Estas tecnologías permiten, entre otras funciones, garantizar el funcionamiento técnico de un sitio web, recordar determinadas preferencias y facilitar la prestación de servicios de terceros.
 
-- **Cookies técnicas o necesarias:** Son aquellas imprescindibles para que la página web funcione correctamente, gestionar la seguridad del servidor y guardar tu elección sobre el consentimiento de cookies. Estas cookies no requieren el consentimiento previo del usuario.
-- **Cookies publicitarias (de terceros):** Son aquellas gestionadas por plataformas publicitarias externas (concretamente **Google AdSense**) que permiten gestionar de forma eficaz los espacios de anuncios de la web y mostrar publicidad personalizada o no personalizada según tu configuración de consentimiento.
+## 2. Cookies utilizadas en Trámite Fácil
 
-**3. Detalle de cookies de terceros (Google AdSense)**
+Trámite Fácil procura limitar el uso de cookies y tecnologías similares a las estrictamente necesarias para el funcionamiento del sitio web.
 
-Este sitio web utiliza **Google AdSense**, un servicio de publicidad prestado por Google Ireland Limited. Google y sus socios publicitarios utilizan cookies (como `IDE`, `NID`, `__gads` o `__gpi`) para:
+La utilización concreta puede variar en función de los servicios técnicos que estén activos en cada momento.
 
-- Mostrar anuncios basados en tus visitas anteriores a este sitio web o a otras páginas de Internet.
-- Limitar el número de veces que ves un mismo anuncio y medir la eficacia de las campañas publicitarias.
+En la actualidad, no debe darse por hecho que se utilizan cookies publicitarias de Google AdSense si dicho servicio todavía no se ha incorporado al sitio web.
 
-Puedes obtener más información sobre cómo Google utiliza las cookies en publicidad en la ++**[Política de privacidad y cookies de Google](https://policies.google.com/technologies/cookies)**++.
+### Cookies técnicas o necesarias
 
-**4. Cómo gestionar, bloquear o eliminar las cookies**
+Son aquellas que pueden resultar imprescindibles para el funcionamiento, la seguridad y la prestación de determinados servicios del sitio web.
 
-Puedes aceptar, rechazar o configurar el uso de cookies no necesarias en cualquier momento a través del panel de configuración de cookies habilitado en este sitio web.
+Cuando estas cookies sean estrictamente necesarias, no requieren el consentimiento previo del usuario, de acuerdo con la normativa aplicable.
 
-Asimismo, puedes permitir, bloquear o eliminar las cookies instaladas en tu equipo mediante la configuración de las opciones de tu navegador:
+## 3. Servicios publicitarios de terceros
 
-- **Google Chrome:** Configuración > Privacidad y seguridad > Cookies y otros datos de sitios.
-- **Mozilla Firefox:** Ajustes > Privacidad y seguridad > Cookies y datos del sitio.
-- **Safari:** Preferencias > Privacidad > Gestionar datos de sitios web.
-- **Microsoft Edge:** Configuración > Cookies y permisos del sitio.
+Trámite Fácil podrá incorporar en el futuro servicios publicitarios de terceros, como Google AdSense, para financiar el mantenimiento del sitio web.
 
-Si desactivas las cookies publicitarias, seguirás viendo anuncios en la web, pero no estarán adaptados a tus intereses.
+Si se incorpora este servicio, Google y sus socios podrán utilizar cookies u otras tecnologías para gestionar la publicidad y, cuando corresponda y exista consentimiento, mostrar anuncios personalizados.
 
-**5. Actualizaciones de la Política de Cookies**
+La información sobre las cookies, los proveedores y las opciones de consentimiento se actualizará antes de activar estos servicios.
 
-El titular de **Trámite Fácil** puede modificar esta Política de Cookies en función de exigencias legislativas o técnicas, o cuando se incorporen nuevos servicios en la web. Se recomienda al usuario revisarla periódicamente.
+Puedes consultar información general sobre las tecnologías utilizadas por Google en su [Política de privacidad](https://policies.google.com/privacy) y en su [información sobre cookies](https://policies.google.com/technologies/cookies).
+
+## 4. Cómo gestionar o eliminar las cookies
+
+Puedes configurar tu navegador para permitir, bloquear o eliminar las cookies almacenadas en tu dispositivo.
+
+A continuación, encontrarás las páginas de ayuda de los principales navegadores:
+
+- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=es)
+- [Mozilla Firefox](https://support.mozilla.org/es/kb/Borrar%20cookies)
+- [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac)
+- [Microsoft Edge](https://support.microsoft.com/es-es/microsoft-edge)
+
+Ten en cuenta que bloquear determinadas cookies técnicas puede afectar al funcionamiento de algunas partes del sitio web.
+
+Si se incorporan cookies publicitarias, podrás gestionar tus preferencias mediante el sistema de consentimiento que se habilite en la web.
+
+## 5. Actualizaciones de la Política de cookies
+
+Trámite Fácil podrá actualizar esta Política de cookies cuando se produzcan cambios técnicos, legislativos o se incorporen nuevos servicios que utilicen cookies o tecnologías similares.
+
+Se recomienda consultar esta página periódicamente para conocer las condiciones vigentes.
+
+## 6. Contacto
+
+Si tienes alguna consulta relacionada con esta Política de cookies, puedes contactar con nosotros a través de:
+
+**Correo electrónico:** [conta.tramitefacil@outlook.com](mailto:conta.tramitefacil@outlook.com)
+
+---
+
+*Última actualización: noviembre de 2026.*
