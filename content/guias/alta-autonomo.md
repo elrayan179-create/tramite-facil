@@ -10,77 +10,115 @@ fecha_revision: 2026-11-02
 destacada: true
 borrador: false
 ---
-Para trabajar por cuenta propia en España hay que completar dos trámites, en dos administraciones distintas, **antes de empezar la actividad**: el alta censal en Hacienda y el alta en el Régimen Especial de Trabajadores Autónomos (RETA) de la Seguridad Social.
+# Cómo darse de alta como autónomo en España: pasos y requisitos
 
-👉 **[Alta en Hacienda: sede electrónica de la Agencia Tributaria**](https://sede.agenciatributaria.gob.es)  
-👉 **[Alta en el RETA: Importass (Seguridad Social)](https://portal.seg-social.gob.es)**
+Para trabajar por cuenta propia en España, por regla general, hay que realizar dos trámites ante administraciones distintas antes de comenzar la actividad:
 
-### Requisitos previos
+- **Alta censal en Hacienda**, mediante el modelo 036.
+- **Alta en el Régimen Especial de Trabajadores Autónomos (RETA)**, gestionada por la Tesorería General de la Seguridad Social.
 
-- Ser mayor de edad (o menor emancipado) y tener capacidad legal para ejercer el comercio.
-- Si eres extranjero no comunitario, tener NIE o TIE en vigor con autorización de trabajo por cuenta propia.
-- Un certificado digital, DNI electrónico o Cl@ve, porque el proceso es totalmente telemático.
-- Conocer el código de tu actividad: el **IAE** (Impuesto de Actividades Económicas, para Hacienda) y el **CNAE** (para la Seguridad Social). Existe una tabla de equivalencias entre ambos. *Pendiente de verificación: enlace oficial de esta tabla.*
+Ambas altas deben estar realizadas antes de comenzar a trabajar y deben reflejar la fecha de inicio correspondiente.
 
-### Documentación necesaria
+👉 [Alta censal: Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/ayuda/calendario-contribuyente/calendario-contribuyente-2026/informacion-sobre-presentacion-modelos-no-periodicos/modelo-036.html)
 
-- DNI, NIE o TIE en vigor.
-- Certificado digital, Cl@ve o DNI electrónico para firmar los trámites.
-- Datos de tu actividad: epígrafe IAE, dirección donde la ejerces, fecha de inicio.
-- Si vas a cotizar por una base distinta a la mínima, datos para calcular tu cuota según tus ingresos previstos. *Pendiente de verificación: cómo se declara esto en la actualidad.*
+👉 [Alta en el RETA: Importass (Seguridad Social)](https://portal.seg-social.gob.es/wps/wcm/connect/importass/importass_contenidos/categorias/altas%2C%2Bbajas%2By%2Bmodificaciones/altas%2By%2Bafiliacion%2Bde%2Btrabajadores/alta_trabajo_autonomo)
 
-### Paso 1: Alta en Hacienda (modelo 036)
+## Requisitos previos
 
-1. Entra en la [sede electrónica de la Agencia Tributaria](https://sede.agenciatributaria.gob.es).
-2. Busca el trámite «Declaración censal, modelo 036». El modelo 037, versión simplificada, dejó de usarse como modelo independiente. *Pendiente de verificación: situación actual de ambos modelos.*
-3. Identifícate con tu certificado digital, Cl@ve o DNI electrónico.
-4. Indica tu epígrafe IAE, la fecha de inicio de la actividad y tus datos fiscales (cómo tributarás en IVA e IRPF).
-5. Presenta el modelo. El alta en Hacienda tiene efecto inmediato.
-6. Si cambia algún dato de tu actividad más adelante, tendrás que volver a presentar el modelo 036 con la modificación.
+Antes de iniciar los trámites, conviene comprobar que se cumplen las condiciones para desarrollar la actividad:
 
-### Paso 2: Alta en el RETA (Seguridad Social)
+- Tener la edad y capacidad legal necesarias. El trámite ordinario de alta en el RETA está dirigido a personas de 18 años o más. Los casos especiales deben consultarse con la Seguridad Social.
+- Si se es extranjero, disponer de la autorización que permita trabajar por cuenta propia cuando sea necesaria.
+- Contar con un medio de identificación admitido por las sedes electrónicas, como certificado digital, DNI electrónico o Cl@ve.
+- Identificar la actividad económica y su epígrafe del Impuesto sobre Actividades Económicas (IAE).
+- Conocer el código de actividad correspondiente de la Clasificación Nacional de Actividades Económicas (CNAE).
 
-1. Entra en el portal [Importass](https://portal.seg-social.gob.es) o en la sede electrónica de la Seguridad Social.
-2. Ve al apartado de Ciudadanos, «Afiliación, Inscripción y Modificaciones», y selecciona «Alta en trabajo autónomo».
-3. Identifícate con certificado digital, Cl@ve o DNI electrónico.
-4. Indica tu actividad (CNAE), la fecha de inicio y la base de cotización. Puedes solicitar en este mismo trámite bonificaciones como la tarifa plana, si tienes derecho a ella.
-5. Confirma el alta.
-6. Comprueba que se ha realizado correctamente entrando en «Informes y Certificados» > «Informe de situación actual», dentro de la sede electrónica.
+## Documentación y datos necesarios
 
-### Plazos
+Para completar el alta pueden solicitarse los siguientes datos:
 
-- Ambas altas deben estar hechas **antes o el mismo día** en que empiezas tu actividad. Nunca después.
-- La Seguridad Social permite tramitar el alta en el RETA hasta 60 días antes de la fecha de inicio. *Pendiente de verificación en fuente oficial.*
+- DNI o NIE.
+- Número de la Seguridad Social (NUSS o NAF).
+- Fecha prevista de inicio de la actividad.
+- Domicilio donde se desarrollará la actividad.
+- Epígrafe del IAE y código CNAE.
+- Previsión de rendimientos netos anuales.
+- Datos para seleccionar la base de cotización y, si corresponde, solicitar beneficios en la cuota.
+- Datos bancarios para domiciliar el pago de las cuotas.
 
-### Costes
+La documentación concreta puede variar según la actividad y la situación de cada persona.
 
-- Los trámites de alta no tienen coste.
-- La cuota mensual del RETA depende de tu base de cotización. Existen bonificaciones, como la conocida como «tarifa plana», para quien se da de alta por primera vez. *Pendiente de verificación: importe actual y condiciones, porque cambian con frecuencia.*
+## Paso 1: Alta en Hacienda mediante el modelo 036
 
-### Fuentes oficiales
+El alta censal debe presentarse antes de comenzar la actividad económica.
 
-- [Agencia Tributaria: sede electrónica](https://sede.agenciatributaria.gob.es)
-- [Seguridad Social: portal Importass](https://portal.seg-social.gob.es)
-- [Seguridad Social: sede electrónica](https://sede.seg-social.gob.es)
+1. Accede a la [Sede electrónica de la Agencia Tributaria](https://sede.agenciatributaria.gob.es).
+2. Busca el trámite del modelo 036 o el servicio de asistencia censal disponible para personas físicas.
+3. Identifícate mediante uno de los sistemas admitidos.
+4. Indica tus datos personales y fiscales, la actividad que vas a desarrollar, el epígrafe del IAE y la fecha de inicio.
+5. Completa la información correspondiente a tus obligaciones tributarias, como el IVA y el IRPF, según tu actividad y situación.
+6. Revisa los datos y presenta la declaración.
+7. Guarda el justificante de presentación.
 
-### Preguntas frecuentes
+**Importante:** desde el 3 de febrero de 2025, el modelo 037 dejó de utilizarse como declaración censal simplificada independiente. Actualmente, el modelo de referencia para estas altas es el 036.
 
-#### ¿En qué orden hago los dos trámites?
+## Paso 2: Alta en el RETA mediante Importass
 
-Primero el alta en Hacienda (modelo 036), porque la Seguridad Social pide los datos de esa alta censal para completar el RETA.
+El alta en la Seguridad Social también debe solicitarse antes de empezar a trabajar. Puede tramitarse con una antelación máxima de 60 días respecto a la fecha de inicio.
 
-#### ¿Puedo hacerlo todo sin ir a ninguna oficina?
+1. Accede a [Importass](https://portal.seg-social.gob.es).
+2. Busca el trámite «Alta en trabajo autónomo».
+3. Identifícate mediante uno de los sistemas admitidos.
+4. Introduce los datos de tu actividad, incluidos el IAE, el CNAE, la fecha de inicio y el domicilio profesional.
+5. Indica la previsión de rendimientos netos y selecciona la base de cotización correspondiente.
+6. Elige la mutua colaboradora y las coberturas que correspondan.
+7. Facilita la cuenta bancaria para domiciliar las cuotas.
+8. Comprueba los datos y confirma la solicitud.
+9. Guarda el justificante del alta.
 
-Sí. Ambos trámites son telemáticos con certificado digital, Cl@ve o DNI electrónico. También existe la vía presencial en las oficinas de cada organismo, con cita previa.
+Durante el trámite también puedes solicitar los beneficios en la cuota para los que cumplas los requisitos.
 
-#### ¿Qué pasa si voy a contratar trabajadores?
+## Plazos
 
-Entonces deberás darte de alta también como empresario y gestionar el alta y la baja de cada trabajador en la Seguridad Social. *Pendiente de verificación: trámite específico.*
+- **Hacienda:** la declaración censal de alta debe presentarse antes de iniciar la actividad.
+- **Seguridad Social:** el alta en el RETA debe solicitarse antes de comenzar. Puede tramitarse hasta 60 días naturales antes de la fecha de inicio.
+- **Inicio de la actividad:** el día que comiences a trabajar debes figurar de alta en las administraciones correspondientes.
 
-#### ¿Tengo que renovar algo si cambia mi actividad?
+No conviene dejar estos trámites para después de empezar, ya que un alta fuera de plazo puede tener consecuencias económicas y afectar al acceso a determinados beneficios.
 
-Sí, debes actualizar el modelo 036 en Hacienda y los datos correspondientes en la Seguridad Social cada vez que cambien.
+## Costes
 
-### Aviso
+- La presentación de los modelos de alta no tiene una tasa administrativa por sí misma.
+- Una vez de alta en el RETA, corresponde pagar una cuota mensual a la Seguridad Social.
+- La cuota depende de los rendimientos netos previstos y de la base de cotización elegida, conforme al sistema vigente.
+- Pueden existir beneficios, como la cuota reducida para nuevos autónomos, si se cumplen las condiciones establecidas.
 
-Trámite Fácil es un portal informativo y no sustituye a la Agencia Tributaria ni a la Seguridad Social. Importes, bonificaciones y plazos cambian con frecuencia, así que comprueba siempre los datos en sus sedes electrónicas antes de darte de alta.
+Puedes consultar la información actualizada en [Importass: trabajo autónomo](https://portal.seg-social.gob.es).
+
+## Fuentes oficiales
+
+- [Agencia Tributaria: modelo 036](https://sede.agenciatributaria.gob.es/Sede/ayuda/calendario-contribuyente/calendario-contribuyente-2026/informacion-sobre-presentacion-modelos-no-periodicos/modelo-036.html)
+- [Agencia Tributaria: preguntas frecuentes del modelo 036](https://sede.agenciatributaria.gob.es/Sede/censos-nif-domicilio-fiscal/tramites-censales-relacionados-empresarios-profesionales-retenedores/preguntas-frecuentes-modelos-036-037.html)
+- [Seguridad Social: alta en trabajo autónomo](https://portal.seg-social.gob.es/wps/wcm/connect/importass/importass_contenidos/categorias/altas%2C%2Bbajas%2By%2Bmodificaciones/altas%2By%2Bafiliacion%2Bde%2Btrabajadores/alta_trabajo_autonomo)
+
+## Preguntas frecuentes
+
+### ¿En qué orden debo realizar los trámites?
+
+Debes asegurarte de que ambas altas estén correctamente realizadas antes de comenzar la actividad. El alta censal de Hacienda debe presentarse antes del inicio y el alta en el RETA también debe estar solicitada antes de esa fecha. Conviene coordinar los dos trámites para que coincidan sus fechas de inicio.
+
+### ¿Puedo realizar los trámites por Internet?
+
+Sí. La Agencia Tributaria y la Seguridad Social permiten realizar estos trámites a través de sus respectivas sedes electrónicas, utilizando los sistemas de identificación admitidos.
+
+### ¿Qué ocurre si voy a contratar trabajadores?
+
+Si vas a contratar personal, tendrás que realizar trámites adicionales como empleador, entre ellos la inscripción de la empresa en la Seguridad Social cuando corresponda y la gestión de las altas de los trabajadores antes de que comiencen a prestar servicios.
+
+### ¿Tengo que comunicar los cambios en mi actividad?
+
+Sí. Si cambian los datos declarados, las obligaciones fiscales o las circunstancias de tu actividad, debes comunicar las modificaciones a los organismos correspondientes dentro de los plazos establecidos.
+
+## Aviso
+
+Trámite Fácil es un portal informativo independiente y no sustituye a la Agencia Tributaria ni a la Seguridad Social. Los requisitos, procedimientos, cuotas y beneficios pueden cambiar. Comprueba siempre la información vigente en las fuentes oficiales antes de realizar los trámites.
